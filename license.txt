@@ -1,0 +1,6 @@
+Criador do layout e páginas - Miguel Akira Ykeuti Meiga, Londrina-PR, 2011
+Title      : Sculptura do Corpo
+Version    : 1.0
+Released   : 2011
+Description: Site criado para a clínica Sculptura do Corpo
+
